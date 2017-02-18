@@ -20,3 +20,4 @@ drwxr-xr-x  2 kenny.reida StafCS 4096 Feb 18 13:04 week09
 drwxr-xr-x  2 kenny.reida StafCS 4096 Feb 18 13:04 week10
 drwxr-xr-x  2 kenny.reida StafCS 4096 Feb 18 13:04 xtra
 /home/fasilkom/mahasiswa/k/kenny.reida/os171/week01
+Today is 18 Feb 2017 at 13:20:39
