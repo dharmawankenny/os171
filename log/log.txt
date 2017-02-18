@@ -1,0 +1,7 @@
+w01-170214-10-About: Introduction to HKI and Scripting, From: Lecturer
+w01-170214-10-About: introduction to HKI and Scripting, From: Lecturer
+w01-170214-11-About: Introduction to HKI and Scripting, From: Lecturer
+w01-170216-10-About: introduction to Scripting and Tutorial to log in to badak, From: Lecturer
+w01-170216-10-About: Introduction to Scripting and Tutorial to log in to badak, From: Lecturer
+w01-170216-11-About: Introduction to Scripting and Tutorial to log in to badak, From: Lecturer
+w01-170217-14-About: self-introduction to GIT, https://git-scm.com/book/en/v1
